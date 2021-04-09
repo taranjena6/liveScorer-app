@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "465870234060",
+    "project_id": "scoredekho-b132f",
+    "storage_bucket": "scoredekho-b132f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465870234060:android:812cc7217c340ac14d7d69",
+        "android_client_info": {
+          "package_name": "com.example.Score_Dekho"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465870234060-1tt4j19ij0fdv3ddhl2elfrgl65higcd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGvhG3a9A9uat84B4Pmp511bpHDP2RFyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465870234060-1tt4j19ij0fdv3ddhl2elfrgl65higcd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
